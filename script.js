@@ -29,7 +29,5 @@ function convertToRoman(num) {
     return result;
 }
 console.log(convertToRoman(14));     // Output: XIV
-console.log(convertToRoman(798));    // Output: DCCXCVIII
-console.log(convertToRoman(0));      // Output: Invalid Input
-console.log(convertToRoman(100000)); // Output: (Very long Roman numeral)
+
 
